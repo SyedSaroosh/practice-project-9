@@ -1,0 +1,25 @@
+
+.card{
+    width: 300px ;
+    margin: 10% auto;
+    
+}
+.card:hover{
+    box-shadow:0 15px 26px 0 rgba(0, 0, 0, 0.6);
+}
+.card img{
+    margin: auto;
+    width: 280px;
+    padding: 10px;
+}
+.container{
+    margin-top: auto;
+    padding: 10px;
+}
+.container h5 {
+    font-weight: lighter;
+    font-size: 14px;
+    padding: 8px;
+    border-bottom:2px solid lightgray; 
+}
+
